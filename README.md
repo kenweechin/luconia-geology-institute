@@ -1,45 +1,42 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Luconia Geology Institute
+The primary goal of Luconia Geology Institution is to offer a diploma course in Petroleum Geology. 
+The target audiences of Luconia Geology Institution are Pre-U student and experienced workers who wish to switch their 
+career into petroleum geology sector. 
 
-Welcome USER_NAME,
+The webpage will shows the selling points and advantages of taking this diploma course in terms of the user's future career pathway. 
+ 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+## **User Experience (UX)**
 
-## Gitpod Reminders
+### **Player goals**
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+* Course that is focusing mainly in petroleum geology sector.
+* A detail description of the modules.
+* The modules provided are easy to navigate with a click.
+* Fascinating lectures and practical work.
+* The contents are clearly arranged. 
 
-`python3 -m http.server`
+Luconia Geology Institution provides the essential courses that fulfill the players' need as in: 
 
-A blue button should appear to click: _Make Public_,
+* Available modules outlines are easily glanced as the user browses the website at the first time. 
+* The reasons for choosing Luconia Geology Institution are clearly shown in the home page. 
+* A detail description of the modules provided are created in a different webpages.   
 
-Another blue button should appear to click: _Open Browser_.
+ ### **Developer and Business Goals**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+ * Well-structured content created from programmming that provides a user-friendly webpage of Luconia Geology Institution.
+ * A junior developer using HTML and CSS to showcase the coding skill and as a first portfolio. 
 
-A blue button should appear to click: _Make Public_,
+ ### **User Stories**
 
-Another blue button should appear to click: _Open Browser_.
+ 1. I want to know the main content and the purpose of the site trying to show. 
+ 2. I want to know the modules outline easily with a glance without using much time on searching them on the site.
+ 3. I want to know the details of each modules that offered by the site which can be shown clearly and in an order arrangement.
+ 4. I want to know the competitive level of the course as compare to the other sites so it is worth the cost.
+ 5. I want to locate the affiliated companies which the institute is collaborated with. 
+ 6. I want to see their posts on social media to assure the credibility. 
+ 7. I want the easiest way to contact the institute for further queries and sign up.  
+  
+    
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
