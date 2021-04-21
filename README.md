@@ -37,6 +37,6 @@ Luconia Geology Institution provides the essential courses that fulfill the play
  6. I want to see their posts on social media to assure the credibility. 
  7. I want the easiest way to contact the institute for further queries and sign up.  
   
-    
+
 
 
