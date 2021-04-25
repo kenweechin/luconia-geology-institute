@@ -37,6 +37,15 @@ Luconia Geology Institution provides the essential courses that fulfill the play
  6. I want to see their posts on social media to assure the credibility. 
  7. I want the easiest way to contact the institute for further queries and sign up.  
   
+### **Wireframes**
 
+Balsamiq were used to create these following wireframes while planning the project and the Scope Plan section. 
+
+* [Home](wireframes/home.png)
+* [Sign Up](wireframes/sign-up.png)
+* [Why Us](wireframes/why-us.png)
+* [Reservoir Engineer](reservoir-engineer/home.png)
+* [Basin Analysis](wireframes/basin-analysis.png)
+* [Seismic Interpretation](wireframes/seismic-interpretation.png)
 
 
