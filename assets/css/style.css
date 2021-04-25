@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Oswald&display=swap');
 
 /** navigation link**/
 .navbar {
@@ -29,7 +29,7 @@ a.nav-link:hover {
 }
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 /** main image**/
