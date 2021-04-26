@@ -33,11 +33,48 @@ h1 {
 }
 
 /** main image**/
-#rig-image {
-    background: url("../images/rig.jpg");
+.rig-image {
+    background: url("../images/rig.jpg") no-repeat center fixed;
     height: 100vh;
     width: 100%;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+
+    display: flex;
+    align-items: center;
+}
+
+/** jumbotron section**/
+.jumbotron {
+    background-color: transparent;
+}
+
+.callout {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+.description-one {
+    font-family: 'Roboto'sans-serif;
+    text-align: center;
+}
+
+/** affiliated companies font**/
+.affiliated-company {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+/** affiliated companies image**/
+.company-logo img {
+    height: 100px;
+    width: 120px;
+    border-style: solid;
+    border-color: white;
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.company-logo {
+    text-align: center;
 }
