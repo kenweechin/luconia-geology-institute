@@ -51,7 +51,6 @@ h1 {
     height: 100vh;
     width: 100%;
     background-size: cover;
-
     display: flex;
     align-items: center;
 }
@@ -69,6 +68,11 @@ h1 {
 .description-one {
     font-family: 'Roboto'sans-serif;
     text-align: center;
+}
+
+.first-line-break {
+    margin-top: 3.0rem;
+    margin-bottom: 3.0rem;
 }
 
 /** affiliated companies font**/
