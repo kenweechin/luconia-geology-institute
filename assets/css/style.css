@@ -1,8 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Oswald&display=swap');
 
+/** over ride bootstrap style**/
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.bg-dark {
+    background-color: #028090 !important;
+}
+
 /** navigation link**/
-.navbar {
-    background-color: #028090;
+
+.navbar-dark .navbar-toggler {
+    border-color: white;
 }
 
 a.nav-link {
@@ -12,8 +22,11 @@ a.nav-link {
     font-family: 'Oswald', sans-serif;
     border-style: solid;
     border-color: #FFA630;
+    float: right;
+
 }
 
+/** navigation link: hover**/
 a.nav-link:hover {
     background-color: #FFA630;
     transition: .3s all ease-in-out;
