@@ -79,6 +79,14 @@ h1 {
     opacity: 0;
 }
 
+.third-line-break {
+    opacity: 0;
+}
+
+.forth-line-break {
+    opacity: 0;
+}
+
 /** affiliated companies font**/
 .affiliated-company {
     font-family: 'Oswald', sans-serif;
@@ -111,4 +119,53 @@ h1 {
 .card-body {
     text-align: center;
     font-family: 'Oswald', sans-serif;
+}
+
+.module {
+    padding-bottom: 5rem;
+}
+
+/** footer section**/
+footer {
+    padding-top: 5rem;
+    background-color: #250001;
+}
+
+.contact-title {
+    text-align: center;
+    color: #ffffff;
+}
+
+.social-title {
+    text-align: center;
+    color: #ffffff;
+}
+
+.social-networks li {
+    text-align: center;
+    color: #ffffff;
+}
+
+.social-networks i {
+    color: #ffffff;
+}
+
+.social-networks {
+    padding: 0;
+}
+
+.social-networks li {
+    display: inline;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.social-networks i {
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 576px) {
+    .social-title {
+        padding-top: 3rem;
+    }
 }
