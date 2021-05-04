@@ -171,6 +171,14 @@ footer {
 }
 
 @media screen and (max-width: 375px) {
+    a.nav-link {
+        border-style: none;
+    }
+
+    li.nav-item {
+        padding-right: 5px;
+    }
+
     .text-light {
         font-size: 1.5rem;
         padding-top: 0.5rem;
@@ -193,5 +201,9 @@ footer {
 
     .description-one {
         font-size: 1.5rem;
+    }
+
+    section.module {
+        padding-bottom: 0;
     }
 }
