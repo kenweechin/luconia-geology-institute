@@ -50,6 +50,7 @@ h1 {
 /* ----------------------------------------Font*/
 .callout {
     font-family: 'Oswald', sans-serif;
+    font-style: italic;
     text-align: center;
     color: #2F1B25;
     font-weight: bold;
@@ -124,10 +125,6 @@ h1 {
     font-family: 'Oswald', sans-serif;
 }
 
-.module {
-    padding-bottom: 5rem;
-}
-
 /* ----------------------------------------Footer*/
 footer {
     padding-top: 5rem;
@@ -193,8 +190,9 @@ footer {
     }
 
     .callout {
-        font-size: 2rem;
+        font-size: 1.5rem;
         padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
     }
 
     .description-one {
@@ -225,5 +223,4 @@ footer {
 #reason-three {
     height: 18rem;
     width: 18rem;
-
 }
