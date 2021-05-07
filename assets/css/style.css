@@ -237,8 +237,12 @@ footer {
     text-align: center;
 }
 
-input#inputEmail4.form-control,
-input#inputPassword4.form-control {
+input#inputfirstname.form-control,
+input#inputlastname.form-control,
+input#inputemail.form-control,
+input#inputnumber.form-control,
+input#inputusername.form-control,
+input#inputpassword.form-control {
     width: 70%;
     margin-left: 15%;
 }
