@@ -213,14 +213,18 @@ footer {
     background-position: center;
 }
 
-.reason-title {
-    border-style: inset;
-    border-color: #134f5c;
-}
-
 #reason-one,
 #reason-two,
 #reason-three {
     height: 18rem;
     width: 18rem;
+}
+
+/* ----------------------------------------Sign Up*/
+.sign_up-container {
+    background: url("../images/sign_up.jpg");
+    height: 30rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
