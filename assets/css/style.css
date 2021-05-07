@@ -228,3 +228,21 @@ footer {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.form-control {
+    width: 100%;
+}
+
+.form-group {
+    text-align: center;
+}
+
+input#inputEmail4.form-control,
+input#inputPassword4.form-control {
+    width: 70%;
+    margin-left: 15%;
+}
+
+label {
+    margin: 0;
+}
