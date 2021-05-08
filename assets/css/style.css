@@ -21,7 +21,6 @@ a.nav-link {
     border-style: solid;
     border-color: #FFA630;
     float: right;
-
 }
 
 a.nav-link:hover {
@@ -166,6 +165,14 @@ ul.social-networks {
 }
 
 /* ----------------------------------------Media Queries*/
+@media screen and (min-width: 768px) {
+    .text-light {
+        font-size: 1.5rem;
+        padding-top: 0.5rem;
+        padding-bottom: 0;
+    }
+}
+
 @media screen and (max-width: 576px) {
     a.nav-link {
         border-style: none;
