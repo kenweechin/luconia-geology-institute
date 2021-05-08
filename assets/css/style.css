@@ -72,9 +72,12 @@ h1 {
 .second-line-break,
 .third-line-break,
 .forth-line-break,
-.register-line-break {
+.register-line-break,
+.module-line-break,
+.syllabus-line-break {
     opacity: 0;
 }
+
 
 .affiliated-company {
     font-family: 'Oswald', sans-serif;
@@ -297,4 +300,12 @@ button.btn.btn-success:hover {
     color: #fff;
     padding-top: 5rem;
     font-weight: bold;
+}
+
+.syllabus-title h2 {
+    padding: 15px 15px;
+}
+
+article {
+    padding: 15px 15px;
 }
