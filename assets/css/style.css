@@ -148,6 +148,7 @@ footer {
 
 .social-networks {
     padding: 0;
+    display: flex;
 }
 
 .social-networks li {
@@ -250,10 +251,16 @@ label {
 button.btn.btn-success {
     border-style: ridge;
     padding: 1.5rem;
-    transition: .3s all ease-in-out;
     background-color: #1de57e;
-    color: black;
     font-weight: bold;
+    color: black;
+    font-size: 1.2rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+button.btn.btn-success:hover {
+    transition: .3s all ease-in-out;
+    background-color: #FFA630;
 }
 
 .sign-up-button {
