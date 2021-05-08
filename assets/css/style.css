@@ -281,3 +281,20 @@ button.btn.btn-success:hover {
 .sign-up-button {
     text-align: center;
 }
+
+/* ----------------------------------------basin-module*/
+.basin-module-container {
+    background: url("../images/basin-analysis-module.jpg");
+    height: 30rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.basin-module {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    padding-top: 5rem;
+    font-weight: bold;
+}
