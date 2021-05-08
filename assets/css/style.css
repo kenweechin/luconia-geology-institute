@@ -151,6 +151,10 @@ footer {
     display: flex;
 }
 
+ul.social-networks {
+    text-align: center;
+}
+
 .social-networks li {
     display: inline;
     margin: 0.5rem;
@@ -215,6 +219,10 @@ footer {
 #reason-three {
     height: 18rem;
     width: 18rem;
+}
+
+.reason-description {
+    font-size: 1.1rem;
 }
 
 /* ----------------------------------------Sign Up*/
