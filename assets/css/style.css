@@ -37,6 +37,15 @@ a.nav-link:hover {
     text-transform: uppercase;
 }
 
+.dropdown-menu {
+    background-color: #028090;
+}
+
+a.dropdown-item {
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+}
+
 h1 {
     font-family: 'Roboto', sans-serif;
 }
