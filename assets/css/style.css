@@ -310,3 +310,53 @@ button.btn.btn-success:hover {
 article {
     padding: 15px 15px;
 }
+
+/* ----------------------------------------reservoir-module*/
+.reservoir-module-container {
+    background: url("../images/reservoir-engineer-module.jpg");
+    height: 30rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.reservoir-module {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    padding-top: 5rem;
+    font-weight: bold;
+}
+
+.syllabus-title h2 {
+    padding: 15px 15px;
+}
+
+article {
+    padding: 15px 15px;
+}
+
+/* ----------------------------------------seismic-interpretation-module*/
+.seismic-interpretation-module-container {
+    background: url("../images/seismic-interpretation-module.jpg");
+    height: 30rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.seismic-interpretation-module {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    padding-top: 5rem;
+    font-weight: bold;
+}
+
+.syllabus-title h2 {
+    padding: 15px 15px;
+}
+
+article {
+    padding: 15px 15px;
+}
