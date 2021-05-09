@@ -151,6 +151,7 @@ footer {
 .social-networks {
     padding: 0;
     display: flex;
+    justify-content: center;
 }
 
 ul.social-networks {
