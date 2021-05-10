@@ -262,12 +262,12 @@ ul.social-networks {
     text-align: center;
 }
 
-input#inputfirstname.form-control,
-input#inputlastname.form-control,
-input#inputemail.form-control,
-input#inputnumber.form-control,
-input#inputusername.form-control,
-input#inputpassword.form-control {
+input#fname.form-control,
+input#lname.form-control,
+input#email.form-control,
+input#number.form-control,
+input#uname.form-control,
+input#password.form-control {
     width: 70%;
     margin-left: 15%;
 }
