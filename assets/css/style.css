@@ -30,7 +30,7 @@ a.nav-link:hover {
 }
 
 .nav-item {
-    padding-right: 25px;
+    padding-right: 1.5rem;
 }
 
 .navbar .nav-item {
@@ -107,8 +107,8 @@ h1 {
 }
 
 .company-logo img {
-    height: 100px;
-    width: 120px;
+    height: 6.25rem;
+    width: 7.5rem;
     border-style: solid;
     border-color: white;
     display: inline-block;
@@ -193,10 +193,6 @@ ul.social-networks {
 @media screen and (max-width: 576px) {
     a.nav-link {
         border-style: none;
-    }
-
-    li.nav-item {
-        padding-right: 5px;
     }
 
     .text-light {
@@ -317,11 +313,11 @@ button.btn.btn-success:hover {
 }
 
 .syllabus-title h2 {
-    padding: 15px 15px;
+    padding: 1rem 1rem;
 }
 
 article {
-    padding: 15px 15px;
+    padding: 1rem 1rem;
 }
 
 /* ----------------------------------------reservoir-module*/
@@ -342,11 +338,11 @@ article {
 }
 
 .syllabus-title h2 {
-    padding: 15px 15px;
+    padding: 1rem 1rem;
 }
 
 article {
-    padding: 15px 15px;
+    padding: 1rem 1rem;
 }
 
 /* ----------------------------------------seismic-interpretation-module*/
@@ -367,9 +363,9 @@ article {
 }
 
 .syllabus-title h2 {
-    padding: 15px 15px;
+    padding: 1rem 1rem;
 }
 
 article {
-    padding: 15px 15px;
+    padding: 1rem 1rem;
 }
