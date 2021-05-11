@@ -127,6 +127,10 @@ h1 {
     font-family: 'Oswald', sans-serif;
 }
 
+.card {
+    margin: 0 auto;
+}
+
 .card-body {
     text-align: center;
     font-family: 'Oswald', sans-serif;
