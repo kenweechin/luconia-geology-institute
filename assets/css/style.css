@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Oswald&display=swap');
 
 /* ----------------------------------------Navigation Link*/
+.navbar-dark a.navbar-brand {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     color: white;
 }
