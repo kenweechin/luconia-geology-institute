@@ -5,10 +5,6 @@
     color: white;
 }
 
-.bg-dark {
-    background-color: #028090 !important;
-}
-
 .navbar-dark .navbar-toggler {
     border-color: white;
 }
@@ -179,50 +175,6 @@ ul.social-networks {
 
 .social-networks i {
     font-size: 2rem;
-}
-
-/* ----------------------------------------Media Queries*/
-@media screen and (min-width: 768px) {
-    .text-light {
-        font-size: 1.5rem;
-        padding-top: 0.5rem;
-        padding-bottom: 0;
-    }
-}
-
-@media screen and (max-width: 576px) {
-    a.nav-link {
-        border-style: none;
-    }
-
-    .text-light {
-        font-size: 1.5rem;
-        padding-top: 0.5rem;
-        padding-bottom: 0;
-    }
-
-    .company-logo img {
-        max-width: 5.0rem;
-
-    }
-
-    .social-title {
-        padding-top: 2rem;
-    }
-
-    .callout {
-        font-size: 1.5rem;
-        padding-top: 2.5rem;
-        padding-bottom: 2.5rem;
-    }
-
-    .description-one {
-        font-size: 1.5rem;
-    }
-
-    section.module {
-        padding-bottom: 0;
-    }
 }
 
 /* ----------------------------------------Reason*/
