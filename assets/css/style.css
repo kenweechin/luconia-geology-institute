@@ -52,6 +52,7 @@ h1 {
 /* ----------------------------------------Jumbotron*/
 .jumbotron {
     background-color: transparent;
+    padding: 0;
 }
 
 /* ----------------------------------------Font*/
@@ -61,7 +62,7 @@ h1 {
     color: #2F1B25;
     font-weight: bold;
     font-size: 2.0rem;
-    padding-top: 15rem;
+    padding-top: 5rem;
 }
 
 .description-one {
@@ -73,8 +74,8 @@ h1 {
 
 /* ----------------------------------------Line Break*/
 .first-line-break {
-    margin-top: 3.0rem;
-    margin-bottom: 3.0rem;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .second-line-break,
@@ -91,6 +92,7 @@ h1 {
     font-family: 'Oswald', sans-serif;
     text-align: center;
     color: #fff;
+    font-size: 1.5rem;
 }
 
 /* ----------------------------------------Images*/
@@ -106,8 +108,8 @@ h1 {
 }
 
 .company-logo img {
-    height: 6.25rem;
-    width: 7.5rem;
+    height: 3rem;
+    width: 3rem;
     border-style: solid;
     border-color: white;
     display: inline-block;
@@ -340,5 +342,10 @@ article {
     .description-one {
         font-size: 1.3rem;
         padding-top: 2rem;
+    }
+
+    .company-logo img {
+        height: 6.25rem;
+        width: 5.50rem;
     }
 }
