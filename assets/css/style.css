@@ -19,9 +19,17 @@ a.nav-link {
     font-size: 1.2rem;
     font-weight: 100;
     font-family: 'Oswald', sans-serif;
-    border-style: solid;
-    border-color: #FFA630;
+
     float: right;
+}
+
+/* ----------------------------------------Tablet resolution and above*/
+@media screen and (min-width: 768px) {
+
+    a.nav-link {
+        border-color: #FFA630;
+        border-style: inset;
+    }
 }
 
 a.nav-link:hover {
