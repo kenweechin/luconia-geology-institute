@@ -51,8 +51,8 @@ h1 {
 
 /* ----------------------------------------Jumbotron*/
 .jumbotron {
-    background-color: transparent;
     padding: 0;
+    background-color: transparent;
 }
 
 /* ----------------------------------------Font*/
@@ -116,6 +116,7 @@ h1 {
     margin-right: auto;
     margin-left: auto;
 }
+
 
 .company-logo {
     text-align: center;
@@ -358,7 +359,21 @@ ul.social-networks {
         width: 5.50rem;
     }
 
+    img.module-one,
+    img.module-two,
+    img.module-three {
+        width: 10rem;
+        margin: 0 auto;
+    }
+
     .social-title {
         padding: 0;
     }
+
+    .card-title {
+        font-size: 1.1rem;
+    }
+
+
+
 }
