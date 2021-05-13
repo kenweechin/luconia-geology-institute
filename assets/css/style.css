@@ -137,51 +137,6 @@ h1 {
     font-family: 'Oswald', sans-serif;
 }
 
-/* ----------------------------------------Footer*/
-footer {
-    padding-top: 5rem;
-    background-color: #134f5c;
-}
-
-.contact-title {
-    text-align: center;
-    color: #ffffff;
-}
-
-.social-title {
-    text-align: center;
-    color: #ffffff;
-}
-
-.social-networks li {
-    text-align: center;
-    color: #ffffff;
-}
-
-.social-networks i {
-    color: #ffffff;
-}
-
-.social-networks {
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
-
-ul.social-networks {
-    text-align: center;
-}
-
-.social-networks li {
-    display: inline;
-    margin: 0.5rem;
-    padding: 0.5rem;
-}
-
-.social-networks i {
-    font-size: 2rem;
-}
-
 /* ----------------------------------------Reason*/
 .reason-container {
     background: url("../images/student.jpg");
@@ -327,6 +282,60 @@ article {
     padding: 1rem 1rem;
 }
 
+/* ----------------------------------------Footer*/
+footer {
+    padding-top: 5rem;
+    background-color: #134f5c;
+}
+
+.contact-detail {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: white;
+}
+
+.contact-title {
+    text-align: center;
+    color: #ffffff;
+}
+
+.social-title {
+    text-align: center;
+    color: #ffffff;
+    padding-top: 3rem;
+}
+
+.social-networks li {
+    text-align: center;
+    color: #ffffff;
+}
+
+.social-networks i {
+    color: #ffffff;
+}
+
+.social-networks {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+ul.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.social-networks i {
+    font-size: 2rem;
+}
+
 /* ----------------------------------------Tablet resolution and above*/
 @media screen and (min-width: 768px) {
 
@@ -347,5 +356,9 @@ article {
     .company-logo img {
         height: 6.25rem;
         width: 5.50rem;
+    }
+
+    .social-title {
+        padding: 0;
     }
 }
