@@ -62,7 +62,6 @@ h1 {
     color: #2F1B25;
     font-weight: bold;
     font-size: 2.0rem;
-
 }
 
 .description-one {
@@ -347,10 +346,12 @@ ul.social-networks {
 
     .lead {
         padding-top: 1rem;
+        font-size: 2rem;
+
     }
 
     .description-one {
-        font-size: 1.3rem;
+        font-size: 1.5rem;
         padding-top: 2rem;
     }
 
