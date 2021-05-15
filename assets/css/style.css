@@ -62,7 +62,7 @@ h1 {
     color: #2F1B25;
     font-weight: bold;
     font-size: 2.0rem;
-    padding-top: 5rem;
+
 }
 
 .description-one {
@@ -108,8 +108,8 @@ h1 {
 }
 
 .company-logo img {
-    height: 3rem;
-    width: 3rem;
+    height: 5rem;
+    width: 5rem;
     border-style: solid;
     border-color: white;
     display: inline-block;
