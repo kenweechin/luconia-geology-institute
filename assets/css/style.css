@@ -96,11 +96,9 @@ h1 {
 
 /* ----------------------------------------Images*/
 .rig-image {
-    background: url("../images/rig.jpg");
+    background: url("../images/rig.jpg") no-repeat center;
     height: 100vh;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -139,11 +137,9 @@ h1 {
 
 /* ----------------------------------------Reason*/
 .reason-container {
-    background: url("../images/student.jpg");
+    background: url("../images/student.jpg") no-repeat center;
     height: 40rem;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
 }
 
 #reason-one,
@@ -159,11 +155,10 @@ h1 {
 
 /* ----------------------------------------Sign Up*/
 .sign_up-container {
-    background: url("../images/sign_up.jpg");
+    background: url("../images/sign_up.jpg") no-repeat center;
     height: 30rem;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+
 }
 
 .form-control {
@@ -209,11 +204,10 @@ button.btn.btn-success:hover {
 
 /* ----------------------------------------basin-module*/
 .basin-module-container {
-    background: url("../images/basin-analysis-module.jpg");
+    background: url("../images/basin-analysis-module.jpg") no-repeat center;
     height: 30rem;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+
 }
 
 .basin-module {
@@ -234,11 +228,10 @@ article {
 
 /* ----------------------------------------reservoir-module*/
 .reservoir-module-container {
-    background: url("../images/reservoir-engineer-module.jpg");
+    background: url("../images/reservoir-engineer-module.jpg") no-repeat center;
     height: 30rem;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+
 }
 
 .reservoir-module {
@@ -259,11 +252,10 @@ article {
 
 /* ----------------------------------------seismic-interpretation-module*/
 .seismic-interpretation-module-container {
-    background: url("../images/seismic-interpretation-module.jpg");
+    background: url("../images/seismic-interpretation-module.jpg") no-repeat center;
     height: 30rem;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+
 }
 
 .seismic-interpretation-module {
