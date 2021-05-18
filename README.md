@@ -126,3 +126,20 @@ The Apply Now page features a contact form which requires the user to fill up th
 * [Google Fonts](https://fonts.google.com/) - *Roboto* and *Oswald* font family were imported to style the website fonts.
 * [jQuery](https://jquery.com/) - For responsive navbar. 
 * [Popper.js](https://popper.js.org/) - For responsive navbar. 
+
+# **Testing**
+Testing documentation is created in [TESTING.md file](https://github.com/kenweechin/luconia-geology-institute/blob/master/TESTING.md)
+
+# **Deployment**
+This project is developed using [Gitpod](https://www.gitpod.io/), commited to git, and pushed to [GitHub](https://github.com/) via the build in function in gitpod.
+
+The steps to deploy the page to Github Pages from its GitHub repository are shown as below:
+1. Log in to Github.
+2. Choose **kenweechin/luconia-geology-institute** from the list of repository.
+3. Click on **Setting** on the right of the menu section near the top page.
+4. Navigate to the **Pages** in the left sidebar and click on it.
+5. Under **GitHub Pages**, use the **Branch** or **None** dropdown menu, then select Master Branch. 
+6. Click on **Save** button on the right, and the website is now deployed.   
+
+### **The methods to run this project locally**
+1. 
