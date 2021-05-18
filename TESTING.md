@@ -6,6 +6,8 @@
 * [W3C Markup Validation](https://validator.w3.org/)
 * [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
     * W3C Markup Validation and W3C CSS Validation were used by the developer to validate the website code. 
+* The project was tested and verify there is no broken link as shown by the image as below: 
+![Broken Link Testing Result](assets/images/broken-link-checker.png)]
 
 ### **Client Stories Testing Section.**
 

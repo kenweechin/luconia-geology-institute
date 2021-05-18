@@ -131,7 +131,10 @@ The Apply Now page features a contact form which requires the user to fill up th
 Testing documentation is created in [TESTING.md file](https://github.com/kenweechin/luconia-geology-institute/blob/master/TESTING.md)
 
 # **Deployment**
-This project is developed using [Gitpod](https://www.gitpod.io/), commited to git, and pushed to [GitHub](https://github.com/) via the build in function in gitpod.
+This project is developed using [Gitpod](https://www.gitpod.io/), commited to git, and pushed to [GitHub](https://github.com/) via the build in function in gitpod. The detail steps are stated as below:
+1. Git add filename - This command was used to add selected files to the staging area before commiting. 
+2. Git commit -m *commit message stating the updates* - This command was used to commit changes to the local repository. 
+3. Git push - This command is used to push all commited changes to Github repository and all the files are safe.  
 
 The steps to deploy the page to Github Pages from its GitHub repository are shown as below:
 1. Log in to Github.
