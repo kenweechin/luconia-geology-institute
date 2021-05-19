@@ -157,3 +157,17 @@ The steps to deploy the page to Github Pages from its GitHub repository are show
 3. Click "Open with Github Dekstop" to clone and open the repository with Github Dekstop. 
 4. Follow the prompts in Github Dekstop to finish the clone. 
 
+# **Credits**
+
+### **Content**
+* The text for the Basin Analysis module page was taken from [Southampton University](https://www.southampton.ac.uk/courses/modules/soes6059#syllabus).
+* The text for the Reservoir Engineer module page was taken from [Curtin University](https://study.curtin.edu.au/offering/unit-ug-fundamentals-of-reservoir-engineering--peen3001/).
+* The text for the Seismic Interpretation module page was taken from [Curtin University](https://study.curtin.edu.au/offering/unit-ug-seismic-interpretation--geop4002/).
+
+### **Media**
+* Most the photos used in this project were taken from [Unsplash](https://unsplash.com/), the internet’s source of freely-usable images.
+* The image with a sandstone formation in the Why Us page was taken by Ken Wee Chin during the field-trip.
+
+### **Acknoledgement**
+* I have the inspiration of creating this project from my past career background as a Petroleum Geologist, and the course I have taken from MSc in Petroleum Geoscience in University College Dublin, Ireland.
+* Special thanks to my mentor, Mr Spencer for valuable suggestions on the project and the way to improve them. 
