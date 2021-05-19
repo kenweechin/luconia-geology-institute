@@ -145,4 +145,15 @@ The steps to deploy the page to Github Pages from its GitHub repository are show
 6. Click on **Save** button on the right, and the website is now deployed.   
 
 ### **The methods to run this project locally**
-1. 
+1. Follow this [link](https://github.com/) to create an account if you don't have one yet. 
+2. Make sure to use Chrome browser when you are working on Github and Gitpod.
+3. Subsequently, install the [Gitpod Browser Extension](https://www.gitpod.io/docs/browser-extension/) and restart the Chrome browser after that. 
+4. Once the installation is done, login to your [Gitpod](https://www.gitpod.io/) and navigate to (Project Github Repository){https://github.com/kenweechin/luconia-geology-institute}.
+5. Click on the *green* color "Gitpod" button located near to the top right of the page. This will create a new gitpod workspace which generated from github, and you are free to work on it locally.
+
+### **Cloning a repository to Github Desktop**
+1. Navigate to the main page of the repositoy on Github. 
+2. Click on the "Code" in *green* button.
+3. Click "Open with Github Dekstop" to clone and open the repository with Github Dekstop. 
+4. Follow the prompts in Github Dekstop to finish the clone. 
+
