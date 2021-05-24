@@ -4,6 +4,7 @@
 .navbar-dark a.navbar-brand {
     color: white;
     font-family: 'Oswald', sans-serif;
+    font-size: 1.9rem;
 }
 
 .navbar-dark .navbar-nav .nav-link {
